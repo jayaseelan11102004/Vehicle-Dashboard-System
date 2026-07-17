@@ -1,4 +1,4 @@
-# Vehicle Dashboard System
+# VEHICLE DASHBOARD SYSTEM
 
 A 3-node embedded automotive dashboard built on **LPC2129 (ARM7TDMI-S)** microcontrollers that communicate over **CAN bus** (the "automotive industry standard" mainline protocol) and read analog sensors over **SPI**. The system displays live temperature and fuel level on an LCD and drives a servo-based fuel gauge / warning indicator.
 
